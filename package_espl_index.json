@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "SparkFun",
+      "name": "ESPL IOT BOARD",
       "maintainer": "SparkFun Electronics",
       "websiteURL": "https://SparkFun.com",
       "email": "TechSupport@SparkFun.com",
@@ -11,7 +11,7 @@
       "platforms": [
  
         {
-          "name": "SparkFun SAMD Boards",
+          "name": "ESPL SAMD51 Boards",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
@@ -24,25 +24,7 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
-            },
-            {
-              "name": "SparkFun SAMD21 Dev Breakout"
-            },
-            {
-              "name": "SparkFun 9DoF Razor IMU M0"
-            },
-            {
-              "name": "LilyPad LilyMini"
-            },
-            {
-              "name": "Sparkfun SAMD21 Pro RF"
-            },
-            {
-              "name": "Sparkfun RedBoard Turbo"
-            },
-            {
-              "name": "Sparkfun SAMD51 Thing Plus"
+              "name": "ESPL SAMD51 Omron Sensor"
             }
           ],
           "toolsDependencies": [
