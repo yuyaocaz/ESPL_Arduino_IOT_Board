@@ -2,9 +2,9 @@
   "packages": [
     {
       "name": "ESPL IOT BOARD",
-      "maintainer": "SparkFun Electronics",
-      "websiteURL": "https://SparkFun.com",
-      "email": "TechSupport@SparkFun.com",
+      "maintainer": "Excelpoint",
+      "websiteURL": "https://www.excelpoint.com/",
+      "email": "test@Excelpoint.com",
       "help": {
         "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
       },
@@ -15,10 +15,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfun-samd-1.0.0.tar.bz2",
-          "archiveFileName": "sparkfun-samd-1.0.0.tar.bz2",
-          "checksum": "SHA-256:AF18934847988926A71BB1C998D4FB2C1A5B5336442FAE8576EE80944EB49456",
-          "size": "1619817",
+          "url": "file://C:/Users/chend/Documents/BootLoader/espl_iot_board_v1.0.0.zip",
+          "archiveFileName": "espl_iot_board_v1.0.0.zip",
+          "checksum": "SHA-256:92c66a8c3f63db496552dda0247c663d5c2fdf30a5c98b3c0f379a401b0fb78e",
+          "size": "1668841",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
