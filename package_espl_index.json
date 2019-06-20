@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ESPL IOT BOARD",
+      "name": "ESPL_IOT_BOARD",
       "maintainer": "Excelpoint",
       "websiteURL": "https://www.excelpoint.com/",
       "email": "test@Excelpoint.com",
@@ -17,8 +17,8 @@
           "category": "Contributed",
           "url": "file://C:/Users/chend/Documents/BootLoader/espl_iot_board_v1.0.0.tar.bz2",
           "archiveFileName": "espl_iot_board_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:954ba2884dacae68b200f03ba19d96dd0b4035e22cb27bd11938e78494bd6abc",
-          "size": "1352340",
+          "checksum": "SHA-256:a9e5a02947ccdbb5d11ba4e507ac5a4cfc8d14a7f4a71a9bc699aee1a6151c4d",
+          "size": "1352402",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
