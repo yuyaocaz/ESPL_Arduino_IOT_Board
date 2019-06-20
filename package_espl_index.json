@@ -17,8 +17,8 @@
           "category": "Contributed",
           "url": "file://C:/Users/chend/Documents/BootLoader/espl_iot_board_v1.0.0.tar.bz2",
           "archiveFileName": "espl_iot_board_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:6a4b0e234187386f458219c730ff3b260b6653cc9b2bf3480633de9af6b4682b",
-          "size": "4997120",
+          "checksum": "SHA-256:954ba2884dacae68b200f03ba19d96dd0b4035e22cb27bd11938e78494bd6abc",
+          "size": "1352340",
           "help": {
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
